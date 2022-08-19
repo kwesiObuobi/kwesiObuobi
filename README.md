@@ -1,4 +1,4 @@
-<h1 align="center"> Samuel Lartey </h1> 
+<h1 align="center"> Samuel Obuobi Lartey </h1> 
 
 
 Hi there 👋
