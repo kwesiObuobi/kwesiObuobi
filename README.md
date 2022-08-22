@@ -32,8 +32,8 @@ I'm Samuel. A full stack web developer, more inclined to backend development wit
 * Attention to detail
 
 ## Connect with me
-* Phone: (+233) 57 322 6434
-* Email: xtraordinarysamuel7@gmail.com
+* Phone: (+233) 55 363 1680
+* Email: kwesiobuobi7@gmail.com
 * Twitter: [kwesi_obuobi](https://twitter.com/kwesi_obuobi)
 * LinkedIn: [kwesi-obuobi-developer](https://www.linkedin.com/in/kwesi-obuobi-developer)
 
