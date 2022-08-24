@@ -4,7 +4,7 @@
 Hi there 👋
 
 
-I'm Samuel. A full stack web developer, more inclined to backend development with python.
+I'm Samuel. A full stack web developer graduate, more inclined to backend development with python (flask).
 ---
 
 ✅ I am passionate about building web applications to solve problems effectively and accurately. I have experience in building APIs in python's flask, building endpoints that are powered by data models using SQLAlchemy ORM and PostgreSQL. I've been constantly applauded on the precision with which I deliver a solution to problems. <br/><br/>
