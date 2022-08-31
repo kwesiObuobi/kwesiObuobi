@@ -8,7 +8,7 @@ I'm Samuel. A full stack web developer graduate, more inclined to backend develo
 ---
 
 ✅ I am passionate about building web applications to solve problems effectively and accurately. I have experience in building APIs in python's flask, building endpoints that are powered by data models using SQLAlchemy ORM and PostgreSQL. I've been constantly applauded on the precision with which I deliver a solution to problems. <br/><br/>
-✅ I am meticulous. I love to learn and I am able to learn and understand new technologies relatively quicker. I am always looking for opportunities to provide excellent timely services anytime needed. I am always ready to take on new challenges!
+✅ I am meticulous. I love to learn and I am able to learn and understand new technologies relatively quicker. I am always looking for opportunities to provide excellent timely services anytime needed. I am always ready to take on new challenges!!
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Flask-000000?logo=Flask&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=flat" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=flat" /> <br/>
