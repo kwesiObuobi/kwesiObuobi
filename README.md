@@ -19,8 +19,21 @@
 * Communication
 * Attention to detail
 
+## Activity
+* Recently Completed Project: <br/>
+ [Good Jam](https://github.com/kwesiObuobi/good-jam): A fictional upcoming Conference for music lovers. <br/><br/>
+* What I'm learning this week: <br/>
+ JS Testing And Best Practices <br/><br/>
+* Current Project I'm Working On: <br/>
+ [Todo List App](https://github.com/kwesiObuobi/to-do-list): A web app that allows users to set tasks needed to be completed.
+
 ## Connect with me
 * Phone: (+233) 55 363 1680
 * Email: kwesiobuobi7@gmail.com
 * Twitter: [kwesi_obuobi](https://twitter.com/kwesi_obuobi)
 * LinkedIn: [kwesi-obuobi](https://www.linkedin.com/in/kwesi-obuobi)
+<br/><br/>
+
+## Github Stats
+[![Samuel Obuobi Lartey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwesiObuobi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwesiObuobi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
