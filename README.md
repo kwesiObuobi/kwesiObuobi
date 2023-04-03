@@ -19,7 +19,7 @@
 * Communication
 * Attention to detail
 
-## Activity
+## Activities
 * Recently Completed Project: <br/>
  [Good Jam](https://github.com/kwesiObuobi/good-jam): A fictional upcoming Conference for music lovers. <br/><br/>
 * What I'm learning this week: <br/>
