@@ -23,7 +23,7 @@
 * Recently Completed Project: <br/>
  [Good Jam](https://github.com/kwesiObuobi/good-jam): A fictional upcoming Conference for music lovers. <br/><br/>
 * What I'm learning this week: <br/>
- JS Testing And Best Practices <br/><br/>
+ Working with APIs <br/><br/>
 * Current Project I'm Working On: <br/>
  [Todo List App](https://github.com/kwesiObuobi/to-do-list): A web app that allows users to set tasks needed to be completed.
 
