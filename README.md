@@ -34,6 +34,6 @@
 * LinkedIn: [kwesi-obuobi](https://www.linkedin.com/in/kwesi-obuobi)
 <br/><br/>
 
-## Github Stats
+<!-- ## Github Stats
 [![Samuel Obuobi Lartey's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwesiObuobi&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwesiObuobi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwesiObuobi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
