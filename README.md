@@ -27,7 +27,7 @@
 * Current Project I'm Working On: <br/>
  [Todo List App](https://github.com/kwesiObuobi/to-do-list): A web app that allows users to set tasks needed to be completed.
 
-## Connect with me
+## Connect with me <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="50" height="50" style="display:inline;" />
 * Phone: (+233) 55 363 1680
 * Email: kwesiobuobi7@gmail.com
 * Twitter: [kwesi_obuobi](https://twitter.com/kwesi_obuobi)
