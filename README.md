@@ -1,4 +1,4 @@
-<h1 align="center"> Samuel Obuobi Lartey </h1> 
+<h1 align="center"> KWESI OBUOBI </h1> 
 <p align="center">
 <!--  <a href="https://www.google.com"> Portfolio  |  </a> -->
  <a href="https://www.linkedin.com/in/kwesi-obuobi"> LinkedIn  |  </a>
